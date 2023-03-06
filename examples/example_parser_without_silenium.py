@@ -1,3 +1,4 @@
+# Description: Получает номер телефона со страницы объявления на сайте krisha.kz
 # To accomplish this task, we can use the requests and BeautifulSoup libraries in Python. Here's an example code:
 
 import requests

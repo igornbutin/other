@@ -1,3 +1,7 @@
+# Description: Пример перебора элементов массива по индексу используя цикл
+
+import time
+
 urls = ["http://example.com/page1", "http://example.com/page2", "http://example.com/page3"]
 current_index = 0
 
@@ -15,3 +19,4 @@ while True:
         
     # ждем некоторое время перед обработкой следующего URL
     time.sleep(5)
+    

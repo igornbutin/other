@@ -1,6 +1,7 @@
 # Description: Перебирает url и открывает каждый selenium, по окончанию массива закрывает webdriver
 # startpage https://krisha.kz/arenda/komnaty/?das[price][to]=70000
 
+# Description: Просто открывает webdriver'ом urls из массива используя цикл while
 # import
 from selenium import webdriver
 from selenium.webdriver.common.by import By
